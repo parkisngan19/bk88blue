@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+BK8 – BK88 Đổi Thưởng Uy Tín Trực Tuyến
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`BK8 <https://bk88.blue/>`_ ra mắt năm 2015, là sân chơi trực tuyến uy tín với hơn 7 triệu người dùng và giấy phép từ các tổ chức như Gaming Curacao, GamCare. BK8 cung cấp đa dạng trò chơi như Thể Thao, Casino, Lô Đề, Bắn Cá, và Nổ Hũ, được đánh giá cao nhờ giao diện thân thiện, dịch vụ khách hàng 24/7, bảo mật tiên tiến, cùng các sảnh game hấp dẫn như Live Casino và Lô Đề xanh chín. Với quy trình đăng ký, nạp/rút tiền nhanh chóng và nhiều khuyến mãi hấp dẫn, BK8 là lựa chọn hàng đầu cho mọi người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 84 Đ. Lô Tư, Bình Hưng Hoà A, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0823165011. 
 
-Contents
---------
+Email: info@bk88.blue. 
 
-.. toctree::
+Website: https://bk88.blue/ 
 
-   usage
-   api
+#bk8 #trangchubk8 #dangkybk8 #dangnhapbk8 #linkbk8
